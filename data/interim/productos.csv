@@ -1,0 +1,101 @@
+id_producto,nombre_producto,categoria,precio_unitario
+1,Coca Cola 1.5L,Alimento,2347
+2,Pepsi 1.5L,Alimento,4973
+3,Sprite 1.5L,Alimento,4964
+4,Fanta Naranja 1.5L,Alimento,2033
+5,Agua Mineral 500ml,Alimento,4777
+6,Jugo de Naranja 1L,Alimento,4170
+7,Jugo de Manzana 1L,Alimento,3269
+8,Energética Nitro 500ml,Alimento,4218
+9,Yerba Mate Suave 1kg,Alimento,3878
+10,Yerba Mate Intensa 1kg,Alimento,4883
+11,Café Molido 250g,Alimento,2053
+12,Té Negro 20 saquitos,Alimento,570
+13,Té Verde 20 saquitos,Alimento,2383
+14,Leche Entera 1L,Alimento,1723
+15,Leche Descremada 1L,Alimento,2538
+16,Yogur Natural 200g,Alimento,4613
+17,Queso Cremoso 500g,Alimento,4834
+18,Queso Rallado 150g,Alimento,3444
+19,Manteca 200g,Alimento,3251
+20,Pan Lactal Blanco,Alimento,1571
+21,Pan Lactal Integral,Alimento,272
+22,Medialunas de Manteca,Alimento,2069
+23,Bizcochos Salados,Alimento,2380
+24,Galletitas Chocolate,Alimento,1305
+25,Galletitas Vainilla,Alimento,4015
+26,Alfajor Triple,Alimento,1001
+27,Alfajor Simple,Alimento,2502
+28,Papas Fritas Clásicas 100g,Alimento,936
+29,Papas Fritas Onduladas 100g,Alimento,1868
+30,Maní Salado 200g,Alimento,4875
+31,Mix de Frutos Secos 200g,Alimento,3409
+32,Chocolate Amargo 100g,Alimento,2234
+33,Chocolate con Leche 100g,Alimento,1255
+34,Turrón 50g,Alimento,503
+35,Barrita de Cereal 30g,Alimento,4430
+36,Dulce de Leche 400g,Alimento,2559
+37,Mermelada de Durazno 400g,Alimento,3196
+38,Mermelada de Frutilla 400g,Alimento,1584
+39,Helado Vainilla 1L,Alimento,469
+40,Helado Chocolate 1L,Alimento,1215
+41,Aceite de Girasol 1L,Alimento,860
+42,Vinagre de Alcohol 500ml,Alimento,1195
+43,Salsa de Tomate 500g,Alimento,887
+44,Arroz Largo Fino 1kg,Alimento,2979
+45,Fideos Spaghetti 500g,Alimento,745
+46,Lentejas Secas 500g,Alimento,3036
+47,Garbanzos 500g,Alimento,2939
+48,Porotos Negros 500g,Alimento,4462
+49,Harina de Trigo 1kg,Alimento,2512
+50,Azúcar 1kg,Alimento,727
+51,Sal Fina 500g,Alimento,1745
+52,Detergente Líquido 750ml,Alimento,2582
+53,Lavandina 1L,Limpieza,1664
+54,Jabón de Tocador,Limpieza,1592
+55,Shampoo 400ml,Limpieza,1407
+56,Papel Higiénico x4,Limpieza,2532
+57,Servilletas x100,Limpieza,4520
+58,Caramelos Masticables,Alimento,4752
+59,Chicle Menta,Alimento,3612
+60,Chupetín,Alimento,4647
+61,Miel Pura 250g,Alimento,4982
+62,Stevia 100 sobres,Alimento,3848
+63,Granola 250g,Alimento,4337
+64,Avena Instantánea 250g,Alimento,3953
+65,Cerveza Rubia 1L,Alimento,2423
+66,Cerveza Negra 1L,Alimento,1533
+67,Vino Tinto Malbec 750ml,Alimento,4719
+68,Vino Blanco 750ml,Alimento,2684
+69,Sidra 750ml,Alimento,744
+70,Fernet 750ml,Alimento,4061
+71,Vodka 700ml,Alimento,508
+72,Ron 700ml,Alimento,3876
+73,Gin 700ml,Alimento,1561
+74,Whisky 750ml,Alimento,2953
+75,Licor de Café 700ml,Alimento,3204
+76,Pizza Congelada Muzzarella,Alimento,4286
+77,Empanadas Congeladas,Alimento,4778
+78,Verduras Congeladas Mix,Alimento,4289
+79,Hamburguesas Congeladas x4,Alimento,2420
+80,Helado de Frutilla 1L,Alimento,1981
+81,Aceitunas Verdes 200g,Alimento,2520
+82,Aceitunas Negras 200g,Alimento,2394
+83,Queso Untable 190g,Alimento,1830
+84,Queso Azul 150g,Alimento,1645
+85,Jugo en Polvo Naranja,Alimento,1856
+86,Jugo en Polvo Limón,Alimento,4090
+87,Sopa Instantánea Pollo,Alimento,1679
+88,Caldo Concentrado Carne,Alimento,2570
+89,Caldo Concentrado Verdura,Alimento,1003
+90,Toallas Húmedas x50,Limpieza,2902
+91,Desodorante Aerosol,Alimento,4690
+92,Crema Dental 90g,Limpieza,2512
+93,Cepillo de Dientes,Alimento,2142
+94,Hilo Dental,Limpieza,1418
+95,Mascarilla Capilar,Limpieza,1581
+96,Suavizante 1L,Alimento,4920
+97,Limpiavidrios 500ml,Limpieza,872
+98,Desengrasante 500ml,Alimento,2843
+99,Esponjas x3,Limpieza,2430
+100,Trapo de Piso,Limpieza,4854
