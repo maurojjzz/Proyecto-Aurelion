@@ -10,7 +10,6 @@ RAW_DIR = "./data/raw"
 INTERIM_DIR = "./data/interim"
 os.makedirs(INTERIM_DIR, exist_ok=True)
 
-print("\n=== CARGA DE ARCHIVOS ===")
 clientes_df = pd.read_excel(f"{RAW_DIR}/clientes.xlsx")
 ventas_df = pd.read_excel(f"{RAW_DIR}/ventas.xlsx")
 productos_df = pd.read_excel(f"{RAW_DIR}/productos.xlsx")
