@@ -37,11 +37,6 @@ print("\n\n===== PRODUCTOS =====")
 print("Shape:", productos_df.shape)
 productos_df.info()
 print("\nDescribe:\n", productos_df.describe())
-print("\nPrimeras filas:\n", productos_df.head())
-print("\nNulos por columna:\n", productos_df.isnull().sum())
-print("\nDuplicados por fila completa:", productos_df.duplicated().sum())
-productos_df = productos_df.drop_duplicates()
-
 
 nombre_col = "nombre_producto"
 categoria_col = "categoria"
@@ -78,6 +73,11 @@ else:
 	# Asignación simple: por defecto 'Limpieza', si matchea -> 'Alimento'
 	productos_df[categoria_col] = "Limpieza"
 	productos_df.loc[mask_alimento, categoria_col] = "Alimento"
+
+print("\nPrimeras filas:\n", productos_df.head())
+print("\nNulos por columna:\n", productos_df.isnull().sum())
+print("\nDuplicados por fila completa:", productos_df.duplicated().sum())
+productos_df = productos_df.drop_duplicates()
 
 
 
