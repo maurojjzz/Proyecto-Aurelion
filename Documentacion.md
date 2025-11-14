@@ -6,10 +6,16 @@
 Aurelion es un supermercado mayorista dedicado a la distribución de productos de consumo diario, como bebidas, alimentos envasados, etc. El objetivo es modernizar la gestión comercial y administrativa del mayorista mediante la digitalización de los procesos de ventas, control de stock y análisis de rentabilidad, reemplazando la administración manual por un sistema automatizado que integre toda la información clave del negocio y facilite la toma de decisiones.
 
 ### Problema
-La gestión manual y desorganizada de ventas, stock y caja en el supermercado Aurelion provoca pérdidas de dinero por errores de registro y falta de control sobre los movimientos e importes.
+El supermercado no cuenta con una forma clara de analizar qué productos se venden más, cómo pagan los clientes y qué artículos tienen poca rotación. La información está dispersa en distintos archivos y no se puede obtener fácilmente un análisis de ventas, métodos de pago o desempeño de productos.
 
 ### Solución Propuesta
-Implementar un sistema digital que automatice el registro diario de ventas, control de stock y movimientos de caja, integrando toda la información del supermercado en una sola plataforma. Esto permitirá reducir errores manuales, optimizar la gestión y mejorar el control financiero.
+Implementar un sistema que unifique los datos de ventas, clientes y productos para generar automáticamente:
+- ranking de productos y categorías según ventas e importes.
+- ranking de productos y categorías según ventas e importes (por mes).
+- análisis de medios de pago usados por los clientes.
+- detección de productos de baja rotación.
+
+El sistema permitirá identificar qué productos rinden, cómo prefieren pagar los clientes y cuáles casi no se venden, mejorando decisiones de surtido, promociones y control de stock.
 
 ## 2. Dataset de referencia:
 (fuente, definición, estructura, tipos y escala de medición)
